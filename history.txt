@@ -1,0 +1,200 @@
+    1  git config --list --show-origin
+    2  pwd
+    3  ls -lrh
+    4  cd
+    5  ls /data
+    6  ls c/Users/CP064099/AppData/Roaming/
+    7  ls
+    8  ls /Videos
+    9  ls
+   10  ls /Videos/
+   11  ls Links/
+   12  ls Videos/
+   13  ls /
+   14  pwd
+   15  cd Videos/
+   16  pwd
+   17  mkdir /Flowers
+   18  ls
+   19  mkdir Flowers
+   20  ls
+   21  cd Flowers
+   22  cd /
+   23  cd Videos/Flowers
+   24  cd Videos
+   25  ls
+   26  Flowers
+   27  cd Flowers
+   28  mkdir Inner_directory
+   29  cd Inner_directory
+   30  cd home
+   31  cd ~
+   32  ls
+   33  pwd
+   34  cd /
+   35  pwd
+   36  ls
+   37  cd ~
+   38  pwd
+   39  cd ..
+   40  ls
+   41  cd ~
+   42  cd /
+   43  cd ..
+   44  ~
+   45  cd ~
+   46  cd ../..
+   47  ls
+   48  cd ProgarmData -ls
+   49  cd ProgramData
+   50  ls
+   51  cd ~
+   52  cd ~
+   53  cd ../../ProgramData
+   54  ~
+   55  cd ~
+   56  cd /
+   57  ~/Videos/Flowers
+   58  cd ~
+   59  ls
+   60  cd Videos
+   61  cd ..
+   62  cd Videos/Flowers
+   63  ls ../..
+   64  ls ..
+   65  ls ../../OneDrive
+   66  ls ../../Documents
+   67  cd ../../Documents/Capitec BootCamp
+   68  cd /
+   69  ls -l
+   70  ls -l -t -r
+   71  cd ~
+   72  ls -lh
+   73  ls -lh
+   74  ls -R
+   75  cd Videos
+   76  ls -R
+   77  ls -l -t -r
+   78  ls -lh
+   79  man ls
+   80  cd ~
+   81  man ls
+   82  man cd
+   83  cd Videos/Flowers
+   84  cd ..
+   85  rmdir Flowers
+   86  ls
+   87  cd /
+   88  ls -l -t -r
+   89  rmdir Flowers
+   90  ls Flowers
+   91  rmdir Flowers/Inner_directory
+   92  ls Flowers
+   93  ls
+   94  ls -l
+   95  rmdir Flowers
+   96  ls -l
+   97  cd ~
+   98  cd Links/
+   99  ls /
+  100  man rmdir
+  101  rmdir --help
+  102  rmdir --help
+  103  ls --help
+  104  mkdir New
+  105  cd New
+  106  mkdir New2
+  107  cd ..
+  108  rmdir -p New
+  109  rmdir New -p
+  110  rmdir --help
+  111  rmdir --ignore-fail-on-non-empty New
+  112  ls -l
+  113  ls New
+  114  rmdir --parents New
+  115  rmdir -p New/New2
+  116  ls -l
+  117  git clone repo
+  118  git config
+  119  git status
+  120  git clone repo git@github.com:kendi51/pumkingrey.git
+  121  git clone https://github.com/kendi51/pumkingrey.git
+  122  git remote add origin https://github.com/kendi51/git-basic-exercises.git
+  123  git branch -M main
+  124  git push -u origin main
+  125  git remote add origin https://github.com/kendi51/git-basic-exercises.git
+  126  git remote add
+  127  cd /
+  128  git remote add origin https://github.com/kendi51/git-basic-execises
+  129  .git 
+  130  git init
+  131  git remote add origin https://github.com/kendi51/git-basic-exercises.git
+  132  git branch -M main
+  133  git push -u origin main
+  134  ls
+  135  pwd
+  136  ls -a
+  137  git status
+  138  touch README.md
+  139  ls -a
+  140  git status
+  141  git log
+  142  git add README.md
+  143  git status
+  144  git rm --cached README.md
+  145  git status
+  146  git add README.md
+  147  git status
+  148  git commit -m "initial commit"
+  149  git log
+  150  q
+  151  nano README.md
+  152  cat README.md
+  153  git status
+  154  git add README.md
+  155  git status
+  156  git commit -m "second commit"
+  157  nano README.md
+  158  cat README.md
+  159  git add README.md
+  160  git status
+  161  git commit -m "third commit"
+  162  git log
+  163  q
+  164  git checkout
+  165  cat README.md
+  166  git checkout main
+  167  git checkout [200~
+  168  git log
+  169  git checkout 
+  170  cat README.md
+  171  git checkout main
+  172  cat README.md Now we are up to date
+  173  git checkout
+  174  git checkout 342c04059be0efcc9e939e70dc491a354ad4962e
+  175  cat README.md
+  176  git checkout main
+  177  git branch
+  178  git branch --help
+  179  git branch
+  180  git branch *milkshake-flavours
+  181  git branch milkshake-flavours
+  182  git branch
+  183  git branch *
+  184  git branch
+  185  git branch milkshake-flavours
+  186  git branch * milkshake-flavours
+  187  git milkshake-flavours
+  188  git checkout milkshake-flavours
+  189  nano milkshakes.md
+  190  git status
+  191  git add milkshakes.md
+  192  git commit -m "added initial flavours"
+  193  git log
+  194  git checkout main
+  195  git log
+  196  git branch history
+  197  git branch
+  198  git checkout history
+  199  git log
+  200  history > history.txt
