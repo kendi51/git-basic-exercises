@@ -1,4 +1,4 @@
- - strawberry mashroom
+ - strawberry mushroom
  - tobacco tonic
- - sweet mandela
+ - sweet Mandela
  - grey avocado
