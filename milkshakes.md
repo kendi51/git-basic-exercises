@@ -1,4 +1,4 @@
- - strawberry mushroom
- - tobacco tonic
- - sweet Mandela
+ - strawberry chocolate
+ - tobacco sweetners
+ - sweet cherry
  - grey avocado
